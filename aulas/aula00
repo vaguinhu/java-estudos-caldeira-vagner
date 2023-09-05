@@ -9,3 +9,22 @@ public class MyClass {
 
 2º exercicio
 
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    Scanner scanner = new Scanner(System.in);
+        
+    System.out.println("Digite seu primeiro numero: ");
+    
+    double numero1 = scanner.nextDouble();
+    
+    System.out.println("Digite seu segundo numero: ");
+    
+    double numero2 = scanner.nextDouble();
+    
+    System.out.println("Voce digitou os numeros " + numero1 + " e " + numero2);
+    
+    scanner.close();
+    }
+}
