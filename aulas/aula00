@@ -1,1 +1,11 @@
+1º exercicio
+
+public class MyClass {
+    public static void main(String args[]) {
+    String nome = "Vagner";
+    System.out.println(nome);
+    }
+}
+
+2º exercicio
 
