@@ -1,4 +1,4 @@
-1º exercicio - Crie um programa que leia seu nome e imprima na tela.
+//1º exercicio - Crie um programa que leia seu nome e imprima na tela.
 
 public class MyClass {
     public static void main(String args[]) {
@@ -7,7 +7,7 @@ public class MyClass {
     }
 }
 
-2º exercicio - Crie um programa que receba 2 números e imprima na tela.
+//2º exercicio - Crie um programa que receba 2 números e imprima na tela.
 
 import java.util.Scanner;
 
@@ -32,7 +32,7 @@ public class MyClass {
     }
 }
 
-3º Exercício - Crie um programa que leia 3 números, imprima o maior, o menor e a média aritmética.
+//3º Exercício - Crie um programa que leia 3 números, imprima o maior, o menor e a média aritmética.
 
 import java.util.Scanner;
 
@@ -68,7 +68,7 @@ public class Main {
     }
 }
 
-4º Exercício - Crie um programa que leia o valor do salário mínimo e o valor do salário de um usuário, 
+//4º Exercício - Crie um programa que leia o valor do salário mínimo e o valor do salário de um usuário, 
 calcule a quantidade de salários mínimos que esse usuário ganha e imprima o resultado, assuma que o salário mínimo é R$1.320.
 
 import java.util.Scanner;
@@ -94,7 +94,7 @@ public class Main {
     }
 }
 
-5º Exercício - Crie um programa que armazene um horário (hora, minuto e segundo) em variáveis, depois, 
+//5º Exercício - Crie um programa que armazene um horário (hora, minuto e segundo) em variáveis, depois, 
 determine e exiba a quantidade de segundos que se passaram desde as 0h00min0s e a quantidade de segundos que faltam para a meia-noite.
 
 import java.util.Scanner;
@@ -132,7 +132,7 @@ public class Main {
     }
 }
 
-6º Exercício - Escreva um programa que leia a idade do usuário e imprima respostas diferentes dependendo do número colocado:
+//6º Exercício - Escreva um programa que leia a idade do usuário e imprima respostas diferentes dependendo do número colocado:
 Se for menor de 16 anos, avisar que não pode votar;
 Se tiver 16 ou 17, avisar que o voto é facultativo;
 Se tiver mais de 65, avisar que também é facultativo o voto;
@@ -163,7 +163,7 @@ public class Main {
     }
 }
 
-7º Exercício - Criar para uma empresa de consórcio. No teste inicial, você deve perguntar para o usuário a idade dele e o seu salário. 
+//7º Exercício - Criar para uma empresa de consórcio. No teste inicial, você deve perguntar para o usuário a idade dele e o seu salário. 
 A pessoa só pode comprar um automóvel se for de maior e ganhar mais de R$ 2.000,00.
 
 import java.util.Scanner;
@@ -191,7 +191,7 @@ public class Main {
     }
 }
 
-8º Exercício - Criar um algoritmo para definir as filas prioritárias. 
+//8º Exercício - Criar um algoritmo para definir as filas prioritárias. 
 Seu programa deve exibir um menu de opções, perguntando se a pessoa é Gestante, Idosa, PCD ou Nenhuma das alternativas. 
 Se ela for PCD, Idosa ou Gestante, tem direito a fila prioritária. Se não, não tem direito."
 
@@ -235,7 +235,7 @@ public class Main {
     }
 }
 
-9º Exercício - Crie um programa em Java que peça ao usuário para inserir seu ano de nascimento e, em seguida, calcule e exiba a idade.
+//9º Exercício - Crie um programa em Java que peça ao usuário para inserir seu ano de nascimento e, em seguida, calcule e exiba a idade.
 
 import java.util.Scanner;
 import java.time.LocalDate;
@@ -285,7 +285,7 @@ public class Main {
     }
 }
 
-11º Exercício - Peça ao usuário que digite uma palavra ou frase e conte quantas vogais (a, e, i, o, u) estão presentes. Exiba o número de vogais na tela.
+//11º Exercício - Peça ao usuário que digite uma palavra ou frase e conte quantas vogais (a, e, i, o, u) estão presentes. Exiba o número de vogais na tela.
 
 import java.util.Scanner;
 
@@ -314,7 +314,7 @@ public class Main {
     }
 }
 
-12º Exercício - Crie um programa que converta uma quantia em dólares para outra moeda, como euros ou reais. 
+//12º Exercício - Crie um programa que converta uma quantia em dólares para outra moeda, como euros ou reais. 
 Peça ao usuário para inserir a quantia em dólares e a taxa de câmbio atual. Em seguida, calcule e exiba o valor convertido.
 
 import java.util.Scanner;
@@ -341,7 +341,7 @@ public class Main {
     }
 }
 
-13º Exercício - Escreva um programa que calcule o fatorial de um número inteiro não negativo fornecido pelo usuário. 
+//13º Exercício - Escreva um programa que calcule o fatorial de um número inteiro não negativo fornecido pelo usuário. 
 O fatorial de um número N é o produto de todos os inteiros de 1 até N.
 
 import java.util.Scanner;
