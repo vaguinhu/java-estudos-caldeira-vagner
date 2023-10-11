@@ -18,7 +18,7 @@ public class exercicio01 {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 
-            System.out.print("Informe o número inicial do intervalo: ");
+            System.out.print("Informe o número inicial do intervalo, por favor : ");
             int start = scanner.nextInt();
 
             System.out.print("Informe o número final do intervalo: ");
